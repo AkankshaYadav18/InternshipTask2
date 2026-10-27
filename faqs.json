@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is an internship?",
+    "answer": "An internship is a short-term work experience where a student can learn practical skills and understand a professional workplace."
+  },
+  {
+    "question": "How can I make a resume?",
+    "answer": "Include your contact details, education, technical skills, projects, certifications, and relevant experience. Keep the information clear and accurate."
+  },
+  {
+    "question": "Which programming language should a beginner learn?",
+    "answer": "Python is beginner-friendly. Java is also a good choice, especially if you are learning object-oriented programming and data structures."
+  },
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial intelligence (AI) is a field of computing that develops systems capable of tasks such as understanding language, recognizing patterns, and making predictions."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a branch of AI in which computers learn patterns from data to make predictions or decisions."
+  },
+  {
+    "question": "How do I prepare for an interview?",
+    "answer": "Review the role, practise explaining your projects, revise relevant technical concepts, and prepare concise examples of your skills and learning."
+  },
+  {
+    "question": "What is a GitHub repository?",
+    "answer": "A GitHub repository stores project files and tracks changes using Git. It can also help you share your source code with others."
+  },
+  {
+    "question": "How can I learn Python?",
+    "answer": "Start with variables, data types, conditions, loops, functions, lists, and dictionaries. Then build small projects and practise debugging."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing (NLP) helps computers process and work with human language, including text classification, search, and chatbots."
+  },
+  {
+    "question": "What should I do if the chatbot does not know an answer?",
+    "answer": "Try rephrasing the question. The developer can also add a new question-answer pair to the faqs.json file."
+  },
+  {
+    "question": "How can I add more FAQs?",
+    "answer": "Open faqs.json and add another object with a question and answer, following the existing JSON format. Save the file and restart or refresh the app."
+  },
+  {
+    "question": "What libraries does this project use?",
+    "answer": "This project uses Streamlit for the interface and scikit-learn for TF-IDF vectorization and cosine similarity."
+  }
+]
